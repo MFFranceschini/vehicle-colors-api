@@ -1,0 +1,25 @@
+{
+    "cores_solidas": {
+        "Branco Polar": "#FFFFFF",
+        "Branco Banchisa": "#F9F9F9",
+        "Preto Ninja": "#000000",
+        "Preto Vulcano": "#0B0C10",
+        "Vermelho Tornado": "#C8102E",
+        "Vermelho Montecarlo": "#B11C22"
+    },
+    "cores_metalicas": {
+        "Prata Geada": "#E0E4E5",
+        "Prata Bari": "#DCDEDF",
+        "Prata Sirius": "#C7C8CA",
+        "Cinza Indium": "#5A5B5C",
+        "Cinza Platinum": "#696B6E",
+        "Azul Jazz": "#14254A"
+    },
+    "cores_perolizadas": {
+        "Branco Alaska": "#FDFDFD",
+        "Branco Cristal": "#F5F5DC",
+        "Preto Ouro Negro": "#1C1D21",
+        "Azul Petróleo": "#00475E",
+        "Vermelho Carmim": "#8E1E23"
+    }
+}
