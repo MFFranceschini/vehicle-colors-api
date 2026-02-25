@@ -1,25 +1,73 @@
 {
-    "cores_solidas": {
-        "Branco Polar": "#FFFFFF",
-        "Branco Banchisa": "#F9F9F9",
-        "Preto Ninja": "#000000",
-        "Preto Vulcano": "#0B0C10",
-        "Vermelho Tornado": "#C8102E",
-        "Vermelho Montecarlo": "#B11C22"
-    },
-    "cores_metalicas": {
-        "Prata Geada": "#E0E4E5",
-        "Prata Bari": "#DCDEDF",
-        "Prata Sirius": "#C7C8CA",
-        "Cinza Indium": "#5A5B5C",
-        "Cinza Platinum": "#696B6E",
-        "Azul Jazz": "#14254A"
-    },
-    "cores_perolizadas": {
-        "Branco Alaska": "#FDFDFD",
-        "Branco Cristal": "#F5F5DC",
-        "Preto Ouro Negro": "#1C1D21",
-        "Azul Petróleo": "#00475E",
-        "Vermelho Carmim": "#8E1E23"
+    "categorias_oficiais": [
+        "Sólida",
+        "Metálica",
+        "Perolizada",
+        "Fosca/Matte",
+        "Especial/Tricolor",
+        "Tintura com Verniz Colorido (Candy)"
+    ],
+    "cores": {
+        "solidas": {
+            "descrição": "Tintas convencionais sem partículas refletivas. Oferecem acabamento liso e denso. Maioria dos veículos de frota ou versões de entrada.",
+            "exemplos": {
+                "Branco Polar (VW)": "#FFFFFF",
+                "Branco Banchisa (Fiat)": "#F9F9F9",
+                "Preto Ninja (VW)": "#000000",
+                "Preto Vulcano (Fiat)": "#0B0C10",
+                "Vermelho Tornado (VW)": "#C8102E",
+                "Vermelho Colorado (Chevrolet)": "#B22222",
+                "Vermelho Montecarlo (Fiat)": "#B11C22",
+                "Cinza Strato (Fiat)": "#606A75"
+            }
+        },
+        "metalicas": {
+            "descrição": "Contêm pó de alumínio na composição, refletindo a luz e dando um aspecto brilhante/metálico ao veículo.",
+            "exemplos": {
+                "Prata Geada (Ford)": "#E0E4E5",
+                "Prata Bari (Fiat)": "#DCDEDF",
+                "Prata Sirius (VW)": "#C7C8CA",
+                "Prata Switchblade (Chevrolet)": "#A9ACB2",
+                "Cinza Indium (VW)": "#5A5B5C",
+                "Cinza Platinum (VW)": "#696B6E",
+                "Cinza Scandium (Fiat)": "#4A4D51",
+                "Azul Jazz (Honda)": "#14254A",
+                "Preto Global (Ford)": "#1B1B1C",
+                "Azul Eclypse (Chevrolet)": "#1D2336"
+            }
+        },
+        "perolizadas": {
+            "descrição": "Contêm pó de pérola (mica), que muda de tonalidade dependendo do ângulo de visão e incidência da luz.",
+            "exemplos": {
+                "Branco Alaska (Fiat)": "#FDFDFD",
+                "Branco Polar Ouro (Hyundai)": "#FFFFF0",
+                "Branco Órion (VW)": "#F5F5F5",
+                "Preto Ouro Negro (Renault)": "#1C1D21",
+                "Preto Safira (BMW)": "#151719",
+                "Azul Petróleo (Jeep)": "#00475E",
+                "Vermelho Carmim (Porsche)": "#8E1E23",
+                "Vermelho Mazda (Soul Red Crystal)": "#800000"
+            }
+        },
+        "foscas": {
+            "descrição": "Sem brilho ou com brilho extremamente reduzido (Matte). Geralmente oferecidas em edições especiais, versões esportivas ou veículos premium.",
+            "exemplos": {
+                "Cinza Fosco (Hyundai HB20x/N-Line)": "#4D4D4D",
+                "Preto Fosco (Edições Especiais)": "#1A1A1A",
+                "Verde Selva Fosco (Jeep Renegade)": "#354A36",
+                "Designo Magno (Mercedes-Benz)": "#4B5054"
+            }
+        },
+        "especiais_exclusive": {
+            "descrição": "Pinturas de alto custo, que podem envolver múltiplas camadas (tricolor, quadricolor), pigmentos importados (Candy), ou que mudam drasticamente de cor (Camaleão).",
+            "exemplos": {
+                "Azul Portimao (BMW)": "#0047AB",
+                "Verde Mamba (Porsche)": "#1AA842",
+                "Amarelo Giallo Modena (Ferrari)": "#F0C300",
+                "Vermelho Rosso Corsa (Ferrari)": "#D40000",
+                "Nardo Grey (Audi)": "#686A6C",
+                "Laranja Vulcânico (Edições Esportivas)": "#FF4500"
+            }
+        }
     }
 }
