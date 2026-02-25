@@ -3,70 +3,90 @@
         "Sólida",
         "Metálica",
         "Perolizada",
-        "Fosca/Matte",
-        "Especial/Tricolor",
-        "Tintura com Verniz Colorido (Candy)"
+        "Fosca",
+        "Especial"
     ],
     "cores": {
         "solidas": {
-            "descrição": "Tintas convencionais sem partículas refletivas. Oferecem acabamento liso e denso. Maioria dos veículos de frota ou versões de entrada.",
+            "descrição": "Tintas convencionais sem brilhantes, lisas e densas.",
             "exemplos": {
-                "Branco Polar (VW)": "#FFFFFF",
-                "Branco Banchisa (Fiat)": "#F9F9F9",
-                "Preto Ninja (VW)": "#000000",
-                "Preto Vulcano (Fiat)": "#0B0C10",
-                "Vermelho Tornado (VW)": "#C8102E",
-                "Vermelho Colorado (Chevrolet)": "#B22222",
-                "Vermelho Montecarlo (Fiat)": "#B11C22",
-                "Cinza Strato (Fiat)": "#606A75"
+                "Branco Básico": "#FFFFFF",
+                "Branco Puro": "#FAFAFA",
+                "Branco Marfim": "#FFFFF0",
+                "Preto Básico": "#000000",
+                "Preto Intenso": "#0F0F0F",
+                "Vermelho Sólido": "#CC0000",
+                "Vermelho Fogo": "#B22222",
+                "Azul Marinho": "#000080",
+                "Azul Celeste": "#87CEEB",
+                "Cinza Claro": "#D3D3D3",
+                "Cinza Escuro": "#696969",
+                "Prata Sólido": "#C0C0C0",
+                "Amarelo Sólido": "#FFFF00",
+                "Verde Sólido": "#008000"
             }
         },
         "metalicas": {
-            "descrição": "Contêm pó de alumínio na composição, refletindo a luz e dando um aspecto brilhante/metálico ao veículo.",
+            "descrição": "Com pó de alumínio para aspecto brilhante.",
             "exemplos": {
-                "Prata Geada (Ford)": "#E0E4E5",
-                "Prata Bari (Fiat)": "#DCDEDF",
-                "Prata Sirius (VW)": "#C7C8CA",
-                "Prata Switchblade (Chevrolet)": "#A9ACB2",
-                "Cinza Indium (VW)": "#5A5B5C",
-                "Cinza Platinum (VW)": "#696B6E",
-                "Cinza Scandium (Fiat)": "#4A4D51",
-                "Azul Jazz (Honda)": "#14254A",
-                "Preto Global (Ford)": "#1B1B1C",
-                "Azul Eclypse (Chevrolet)": "#1D2336"
+                "Prata Claro Metálico": "#E0E4E5",
+                "Prata Escuro Metálico": "#A9ACB2",
+                "Cinza Metálico": "#5A5B5C",
+                "Cinza Chumbo Metálico": "#4A4D51",
+                "Preto Metálico": "#1B1B1C",
+                "Branco Metálico": "#F0F8FF",
+                "Azul Claro Metálico": "#ADD8E6",
+                "Azul Escuro Metálico": "#14254A",
+                "Vermelho Metálico": "#A52A2A",
+                "Vermelho Vinho Metálico": "#800000",
+                "Verde Musgo Metálico": "#556B2F",
+                "Verde Oliva Metálico": "#6B8E23",
+                "Dourado Metálico": "#DAA520",
+                "Bronze Metálico": "#CD7F32",
+                "Marrom Metálico": "#8B4513",
+                "Cobre Metálico": "#B87333"
             }
         },
         "perolizadas": {
-            "descrição": "Contêm pó de pérola (mica), que muda de tonalidade dependendo do ângulo de visão e incidência da luz.",
+            "descrição": "Com pó de mica (pérola) que muda de tom na luz.",
             "exemplos": {
-                "Branco Alaska (Fiat)": "#FDFDFD",
-                "Branco Polar Ouro (Hyundai)": "#FFFFF0",
-                "Branco Órion (VW)": "#F5F5F5",
-                "Preto Ouro Negro (Renault)": "#1C1D21",
-                "Preto Safira (BMW)": "#151719",
-                "Azul Petróleo (Jeep)": "#00475E",
-                "Vermelho Carmim (Porsche)": "#8E1E23",
-                "Vermelho Mazda (Soul Red Crystal)": "#800000"
+                "Branco Perolizado": "#FDFDFD",
+                "Branco Neve Perolizado": "#FFFAFA",
+                "Preto Perolizado": "#1A1A1A",
+                "Preto Ouro Perolizado": "#1C1D21",
+                "Prata Perolizado": "#DCDCDC",
+                "Cinza Perolizado": "#708090",
+                "Vermelho Perolizado": "#DC143C",
+                "Vermelho Cereja Perolizado": "#8E1E23",
+                "Azul Perolizado": "#4682B4",
+                "Azul Petróleo Perolizado": "#00475E",
+                "Verde Perolizado": "#2E8B57",
+                "Amarelo Perolizado": "#FFD700"
             }
         },
         "foscas": {
-            "descrição": "Sem brilho ou com brilho extremamente reduzido (Matte). Geralmente oferecidas em edições especiais, versões esportivas ou veículos premium.",
+            "descrição": "Sem brilho (Matte).",
             "exemplos": {
-                "Cinza Fosco (Hyundai HB20x/N-Line)": "#4D4D4D",
-                "Preto Fosco (Edições Especiais)": "#1A1A1A",
-                "Verde Selva Fosco (Jeep Renegade)": "#354A36",
-                "Designo Magno (Mercedes-Benz)": "#4B5054"
+                "Preto Fosco": "#1A1A1A",
+                "Cinza Fosco": "#4D4D4D",
+                "Cinza Nardo Fosco": "#686A6C",
+                "Branco Fosco": "#F5F5F5",
+                "Verde Militar Fosco": "#4B5320",
+                "Verde Selva Fosco": "#354A36",
+                "Azul Fosco": "#4169E1"
             }
         },
-        "especiais_exclusive": {
-            "descrição": "Pinturas de alto custo, que podem envolver múltiplas camadas (tricolor, quadricolor), pigmentos importados (Candy), ou que mudam drasticamente de cor (Camaleão).",
+        "especiais": {
+            "descrição": "Cores intensas, vibrantes, candy ou bicolores raras.",
             "exemplos": {
-                "Azul Portimao (BMW)": "#0047AB",
-                "Verde Mamba (Porsche)": "#1AA842",
-                "Amarelo Giallo Modena (Ferrari)": "#F0C300",
-                "Vermelho Rosso Corsa (Ferrari)": "#D40000",
-                "Nardo Grey (Audi)": "#686A6C",
-                "Laranja Vulcânico (Edições Esportivas)": "#FF4500"
+                "Amarelo Fluorescente": "#CCFF00",
+                "Laranja Vulcânico": "#FF4500",
+                "Rosa Choque": "#FF1493",
+                "Azul Bebê Claro": "#E0FFFF",
+                "Verde Limão": "#32CD32",
+                "Púrpura / Roxo Escuro": "#800080",
+                "Holográfico Prismático": "#C0C0D0",
+                "Chumbo Escovado": "#606060"
             }
         }
     }

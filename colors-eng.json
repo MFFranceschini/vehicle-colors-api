@@ -4,69 +4,89 @@
         "Metallic",
         "Pearlescent",
         "Matte",
-        "Exclusive/Tricolor",
-        "Candy Apple / Tinted Clearcoat"
+        "Exclusive"
     ],
     "colors": {
         "solid": {
-            "description": "Standard paints without reflective particles. They offer a smooth, dense finish. Most common in fleet vehicles or entry-level trims.",
+            "description": "Standard paints without reflective particles, dense and smooth.",
             "examples": {
-                "Polar White (VW)": "#FFFFFF",
-                "Banchisa White (Fiat)": "#F9F9F9",
-                "Ninja Black (VW)": "#000000",
-                "Vulcano Black (Fiat)": "#0B0C10",
-                "Tornado Red (VW)": "#C8102E",
-                "Colorado Red (Chevrolet)": "#B22222",
-                "Montecarlo Red (Fiat)": "#B11C22",
-                "Strato Gray (Fiat)": "#606A75"
+                "Basic White": "#FFFFFF",
+                "Pure White": "#FAFAFA",
+                "Ivory White": "#FFFFF0",
+                "Basic Black": "#000000",
+                "Intense Black": "#0F0F0F",
+                "Solid Red": "#CC0000",
+                "Fire Red": "#B22222",
+                "Navy Blue": "#000080",
+                "Sky Blue": "#87CEEB",
+                "Light Gray": "#D3D3D3",
+                "Dark Gray": "#696969",
+                "Solid Silver": "#C0C0C0",
+                "Solid Yellow": "#FFFF00",
+                "Solid Green": "#008000"
             }
         },
         "metallic": {
-            "description": "Contain aluminum flakes, reflecting light and giving the vehicle a bright/metallic appearance.",
+            "description": "Contain aluminum flakes for a bright/metallic appearance.",
             "examples": {
-                "Frost Silver (Ford)": "#E0E4E5",
-                "Bari Silver (Fiat)": "#DCDEDF",
-                "Sirius Silver (VW)": "#C7C8CA",
-                "Switchblade Silver (Chevrolet)": "#A9ACB2",
-                "Indium Gray (VW)": "#5A5B5C",
-                "Platinum Gray (VW)": "#696B6E",
-                "Scandium Gray (Fiat)": "#4A4D51",
-                "Jazz Blue (Honda)": "#14254A",
-                "Global Black (Ford)": "#1B1B1C",
-                "Eclypse Blue (Chevrolet)": "#1D2336"
+                "Light Silver Metallic": "#E0E4E5",
+                "Dark Silver Metallic": "#A9ACB2",
+                "Gray Metallic": "#5A5B5C",
+                "Gunmetal Metallic": "#4A4D51",
+                "Black Metallic": "#1B1B1C",
+                "White Metallic": "#F0F8FF",
+                "Light Blue Metallic": "#ADD8E6",
+                "Dark Blue Metallic": "#14254A",
+                "Red Metallic": "#A52A2A",
+                "Burgundy Metallic": "#800000",
+                "Moss Green Metallic": "#556B2F",
+                "Olive Green Metallic": "#6B8E23",
+                "Gold Metallic": "#DAA520",
+                "Bronze Metallic": "#CD7F32",
+                "Brown Metallic": "#8B4513",
+                "Copper Metallic": "#B87333"
             }
         },
         "pearlescent": {
-            "description": "Contain mica dust (pearl), which shifts in hue depending on the viewing angle and light incidence.",
+            "description": "Contain mica dust (pearl), which shifts hue depending on light.",
             "examples": {
-                "Alaska White (Fiat)": "#FDFDFD",
-                "Polar White Pearl (Hyundai)": "#FFFFF0",
-                "Orion White (VW)": "#F5F5F5",
-                "Black Diamond/Ouro Negro (Renault)": "#1C1D21",
-                "Sapphire Black (BMW)": "#151719",
-                "Teal Blue / Petroleum (Jeep)": "#00475E",
-                "Carmine Red (Porsche)": "#8E1E23",
-                "Soul Red Crystal (Mazda)": "#800000"
+                "Pearl White": "#FDFDFD",
+                "Snow Pearl White": "#FFFAFA",
+                "Pearl Black": "#1A1A1A",
+                "Gold Pearl Black": "#1C1D21",
+                "Pearl Silver": "#DCDCDC",
+                "Pearl Gray": "#708090",
+                "Pearl Red": "#DC143C",
+                "Cherry Pearl Red": "#8E1E23",
+                "Pearl Blue": "#4682B4",
+                "Teal / Petroleum Pearl": "#00475E",
+                "Pearl Green": "#2E8B57",
+                "Pearl Yellow": "#FFD700"
             }
         },
         "matte": {
-            "description": "Flat finish with little to no shine. Typically offered on special editions, sports trims, or premium vehicles.",
+            "description": "Flat finish with little to no shine.",
             "examples": {
-                "Matte Gray (Hyundai N-Line)": "#4D4D4D",
-                "Matte Black (Special Editions)": "#1A1A1A",
-                "Jungle Green Matte (Jeep Renegade)": "#354A36",
-                "Designo Magno (Mercedes-Benz)": "#4B5054"
+                "Matte Black": "#1A1A1A",
+                "Matte Gray": "#4D4D4D",
+                "Nardo Matte Gray": "#686A6C",
+                "Matte White": "#F5F5F5",
+                "Military Matte Green": "#4B5320",
+                "Jungle Matte Green": "#354A36",
+                "Matte Blue": "#4169E1"
             }
         },
         "exclusive": {
-            "description": "Premium, high-cost paint jobs. May involve multiple layers (tricolor), specialized pigments (Candy), or dramatic color shifts (Chameleon).",
+            "description": "Premium, vibrant, intense or rare bi-color paints.",
             "examples": {
-                "Portimao Blue (BMW)": "#0047AB",
-                "Mamba Green (Porsche)": "#1AA842",
-                "Giallo Modena Yellow (Ferrari)": "#F0C300",
-                "Rosso Corsa Red (Ferrari)": "#D40000",
-                "Nardo Gray (Audi)": "#686A6C",
-                "Volcanic Orange (Sports Editions)": "#FF4500"
+                "Neon Yellow": "#CCFF00",
+                "Volcanic Orange": "#FF4500",
+                "Hot Pink": "#FF1493",
+                "Baby Blue": "#E0FFFF",
+                "Lime Green": "#32CD32",
+                "Deep Purple": "#800080",
+                "Holographic Prismatic": "#C0C0D0",
+                "Brushed Gunmetal": "#606060"
             }
         }
     }
