@@ -4,89 +4,83 @@
         "Metálica",
         "Perolizada",
         "Fosca",
-        "Especial"
+        "Especial/Tricolor"
     ],
     "cores": {
         "solidas": {
             "descrição": "Tintas convencionais sem brilhantes, lisas e densas.",
             "exemplos": {
-                "Branco Básico": "#FFFFFF",
-                "Branco Puro": "#FAFAFA",
+                "Branco Polar": "#FFFFFF",
+                "Branco Banchisa": "#F9F9F9",
+                "Preto Ninja": "#000000",
+                "Preto Vulcano": "#0B0C10",
+                "Vermelho Tornado": "#C8102E",
+                "Vermelho Colorado": "#B22222",
+                "Vermelho Montecarlo": "#B11C22",
+                "Cinza Strato": "#606A75",
                 "Branco Marfim": "#FFFFF0",
-                "Preto Básico": "#000000",
-                "Preto Intenso": "#0F0F0F",
-                "Vermelho Sólido": "#CC0000",
-                "Vermelho Fogo": "#B22222",
-                "Azul Marinho": "#000080",
-                "Azul Celeste": "#87CEEB",
-                "Cinza Claro": "#D3D3D3",
-                "Cinza Escuro": "#696969",
-                "Prata Sólido": "#C0C0C0",
-                "Amarelo Sólido": "#FFFF00",
-                "Verde Sólido": "#008000"
+                "Azul Marinho Sólido": "#000080",
+                "Azul Celeste Sólido": "#87CEEB",
+                "Prata Sólido": "#C0C0C0"
             }
         },
         "metalicas": {
             "descrição": "Com pó de alumínio para aspecto brilhante.",
             "exemplos": {
-                "Prata Claro Metálico": "#E0E4E5",
-                "Prata Escuro Metálico": "#A9ACB2",
-                "Cinza Metálico": "#5A5B5C",
-                "Cinza Chumbo Metálico": "#4A4D51",
-                "Preto Metálico": "#1B1B1C",
-                "Branco Metálico": "#F0F8FF",
-                "Azul Claro Metálico": "#ADD8E6",
-                "Azul Escuro Metálico": "#14254A",
-                "Vermelho Metálico": "#A52A2A",
-                "Vermelho Vinho Metálico": "#800000",
+                "Prata Geada": "#E0E4E5",
+                "Prata Bari": "#DCDEDF",
+                "Prata Sirius": "#C7C8CA",
+                "Prata Switchblade": "#A9ACB2",
+                "Cinza Indium": "#5A5B5C",
+                "Cinza Platinum": "#696B6E",
+                "Cinza Scandium": "#4A4D51",
+                "Azul Jazz": "#14254A",
+                "Preto Global": "#1B1B1C",
+                "Azul Eclypse": "#1D2336",
                 "Verde Musgo Metálico": "#556B2F",
-                "Verde Oliva Metálico": "#6B8E23",
                 "Dourado Metálico": "#DAA520",
                 "Bronze Metálico": "#CD7F32",
-                "Marrom Metálico": "#8B4513",
-                "Cobre Metálico": "#B87333"
+                "Marrom Metálico": "#8B4513"
             }
         },
         "perolizadas": {
             "descrição": "Com pó de mica (pérola) que muda de tom na luz.",
             "exemplos": {
-                "Branco Perolizado": "#FDFDFD",
-                "Branco Neve Perolizado": "#FFFAFA",
-                "Preto Perolizado": "#1A1A1A",
-                "Preto Ouro Perolizado": "#1C1D21",
-                "Prata Perolizado": "#DCDCDC",
+                "Branco Alaska": "#FDFDFD",
+                "Branco Polar Ouro": "#FFFFF0",
+                "Branco Órion": "#F5F5F5",
+                "Preto Ouro Negro": "#1C1D21",
+                "Preto Safira": "#151719",
+                "Azul Petróleo": "#00475E",
+                "Vermelho Carmim": "#8E1E23",
+                "Vermelho Soul Crystal": "#800000",
                 "Cinza Perolizado": "#708090",
-                "Vermelho Perolizado": "#DC143C",
-                "Vermelho Cereja Perolizado": "#8E1E23",
-                "Azul Perolizado": "#4682B4",
-                "Azul Petróleo Perolizado": "#00475E",
-                "Verde Perolizado": "#2E8B57",
-                "Amarelo Perolizado": "#FFD700"
+                "Verde Perolizado": "#2E8B57"
             }
         },
         "foscas": {
-            "descrição": "Sem brilho (Matte).",
+            "descrição": "Sem brilho (Matte) ou brilho extremamente reduzido.",
             "exemplos": {
-                "Preto Fosco": "#1A1A1A",
                 "Cinza Fosco": "#4D4D4D",
-                "Cinza Nardo Fosco": "#686A6C",
-                "Branco Fosco": "#F5F5F5",
-                "Verde Militar Fosco": "#4B5320",
+                "Preto Fosco": "#1A1A1A",
                 "Verde Selva Fosco": "#354A36",
-                "Azul Fosco": "#4169E1"
+                "Cinza Magno": "#4B5054",
+                "Verde Militar Fosco": "#4B5320",
+                "Branco Fosco": "#F5F5F5"
             }
         },
-        "especiais": {
-            "descrição": "Cores intensas, vibrantes, candy ou bicolores raras.",
+        "especiais_exclusive": {
+            "descrição": "Cores intensas, vibrantes, candy ou bicolores super premium.",
             "exemplos": {
-                "Amarelo Fluorescente": "#CCFF00",
+                "Azul Portimao": "#0047AB",
+                "Verde Mamba": "#1AA842",
+                "Amarelo Giallo Modena": "#F0C300",
+                "Vermelho Rosso Corsa": "#D40000",
+                "Cinza Nardo": "#686A6C",
                 "Laranja Vulcânico": "#FF4500",
+                "Amarelo Fluorescente": "#CCFF00",
                 "Rosa Choque": "#FF1493",
-                "Azul Bebê Claro": "#E0FFFF",
-                "Verde Limão": "#32CD32",
-                "Púrpura / Roxo Escuro": "#800080",
-                "Holográfico Prismático": "#C0C0D0",
-                "Chumbo Escovado": "#606060"
+                "Azul Bebê Claro": "#E0FFFF"
             }
         }
     }

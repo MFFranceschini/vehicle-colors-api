@@ -4,89 +4,83 @@
         "Metallic",
         "Pearlescent",
         "Matte",
-        "Exclusive"
+        "Exclusive/Tricolor"
     ],
     "colors": {
         "solid": {
             "description": "Standard paints without reflective particles, dense and smooth.",
             "examples": {
-                "Basic White": "#FFFFFF",
-                "Pure White": "#FAFAFA",
+                "Polar White": "#FFFFFF",
+                "Banchisa White": "#F9F9F9",
+                "Ninja Black": "#000000",
+                "Vulcano Black": "#0B0C10",
+                "Tornado Red": "#C8102E",
+                "Colorado Red": "#B22222",
+                "Montecarlo Red": "#B11C22",
+                "Strato Gray": "#606A75",
                 "Ivory White": "#FFFFF0",
-                "Basic Black": "#000000",
-                "Intense Black": "#0F0F0F",
-                "Solid Red": "#CC0000",
-                "Fire Red": "#B22222",
-                "Navy Blue": "#000080",
-                "Sky Blue": "#87CEEB",
-                "Light Gray": "#D3D3D3",
-                "Dark Gray": "#696969",
-                "Solid Silver": "#C0C0C0",
-                "Solid Yellow": "#FFFF00",
-                "Solid Green": "#008000"
+                "Solid Navy Blue": "#000080",
+                "Solid Sky Blue": "#87CEEB",
+                "Solid Silver": "#C0C0C0"
             }
         },
         "metallic": {
             "description": "Contain aluminum flakes for a bright/metallic appearance.",
             "examples": {
-                "Light Silver Metallic": "#E0E4E5",
-                "Dark Silver Metallic": "#A9ACB2",
-                "Gray Metallic": "#5A5B5C",
-                "Gunmetal Metallic": "#4A4D51",
-                "Black Metallic": "#1B1B1C",
-                "White Metallic": "#F0F8FF",
-                "Light Blue Metallic": "#ADD8E6",
-                "Dark Blue Metallic": "#14254A",
-                "Red Metallic": "#A52A2A",
-                "Burgundy Metallic": "#800000",
+                "Frost Silver": "#E0E4E5",
+                "Bari Silver": "#DCDEDF",
+                "Sirius Silver": "#C7C8CA",
+                "Switchblade Silver": "#A9ACB2",
+                "Indium Gray": "#5A5B5C",
+                "Platinum Gray": "#696B6E",
+                "Scandium Gray": "#4A4D51",
+                "Jazz Blue": "#14254A",
+                "Global Black": "#1B1B1C",
+                "Eclypse Blue": "#1D2336",
                 "Moss Green Metallic": "#556B2F",
-                "Olive Green Metallic": "#6B8E23",
                 "Gold Metallic": "#DAA520",
                 "Bronze Metallic": "#CD7F32",
-                "Brown Metallic": "#8B4513",
-                "Copper Metallic": "#B87333"
+                "Brown Metallic": "#8B4513"
             }
         },
         "pearlescent": {
             "description": "Contain mica dust (pearl), which shifts hue depending on light.",
             "examples": {
-                "Pearl White": "#FDFDFD",
-                "Snow Pearl White": "#FFFAFA",
-                "Pearl Black": "#1A1A1A",
-                "Gold Pearl Black": "#1C1D21",
-                "Pearl Silver": "#DCDCDC",
+                "Alaska White": "#FDFDFD",
+                "Polar White Pearl": "#FFFFF0",
+                "Orion White": "#F5F5F5",
+                "Black Diamond Ouro": "#1C1D21",
+                "Sapphire Black": "#151719",
+                "Petroleum Teal": "#00475E",
+                "Carmine Red": "#8E1E23",
+                "Soul Crystal Red": "#800000",
                 "Pearl Gray": "#708090",
-                "Pearl Red": "#DC143C",
-                "Cherry Pearl Red": "#8E1E23",
-                "Pearl Blue": "#4682B4",
-                "Teal / Petroleum Pearl": "#00475E",
-                "Pearl Green": "#2E8B57",
-                "Pearl Yellow": "#FFD700"
+                "Pearl Green": "#2E8B57"
             }
         },
         "matte": {
             "description": "Flat finish with little to no shine.",
             "examples": {
-                "Matte Black": "#1A1A1A",
                 "Matte Gray": "#4D4D4D",
-                "Nardo Matte Gray": "#686A6C",
-                "Matte White": "#F5F5F5",
-                "Military Matte Green": "#4B5320",
+                "Matte Black": "#1A1A1A",
                 "Jungle Matte Green": "#354A36",
-                "Matte Blue": "#4169E1"
+                "Magno Gray": "#4B5054",
+                "Military Matte Green": "#4B5320",
+                "Matte White": "#F5F5F5"
             }
         },
         "exclusive": {
             "description": "Premium, vibrant, intense or rare bi-color paints.",
             "examples": {
-                "Neon Yellow": "#CCFF00",
+                "Portimao Blue": "#0047AB",
+                "Mamba Green": "#1AA842",
+                "Giallo Modena Yellow": "#F0C300",
+                "Rosso Corsa Red": "#D40000",
+                "Nardo Gray": "#686A6C",
                 "Volcanic Orange": "#FF4500",
+                "Neon Yellow": "#CCFF00",
                 "Hot Pink": "#FF1493",
-                "Baby Blue": "#E0FFFF",
-                "Lime Green": "#32CD32",
-                "Deep Purple": "#800080",
-                "Holographic Prismatic": "#C0C0D0",
-                "Brushed Gunmetal": "#606060"
+                "Baby Blue": "#E0FFFF"
             }
         }
     }
